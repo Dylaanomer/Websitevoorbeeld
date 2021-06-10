@@ -1,0 +1,1 @@
+Sinds wij alleen met twee mensen zijn hebben we dit niet nodig gehad want wij zitten deheletijd samen in een call.

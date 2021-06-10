@@ -1,0 +1,146 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin: 0 0 100px;
+  /* bottom = footer height */
+  padding: 25px;
+}
+
+
+
+.content {
+  background-color: rgba(255, 255, 255, 0.671);
+  padding: 10px;
+  margin: auto;
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  border: 4px outset rgb(255, 0, 0);
+  border-width: 5px;
+  border-radius: 25px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.box {
+  background-color: rgba(190, 178, 150, 0.397);
+  padding: 5px;
+  margin: auto;
+  border-radius: 25px;
+  width: 35%;
+  height: 100%;
+  text-align: center;
+  border: 4px double blue;
+  border-width: 5px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.schip-info {
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+}
+
+.contentz {
+  background-color: rgba(255, 255, 255, 0.719);
+  padding: 10px;
+  margin: auto;
+  width: 35%;
+  height: 100%;
+  text-align: center;
+  border: 6px dotted rgb(255, 0, 0);
+  border-width: 5px;
+  font-family: "Montserrat", sans-serif;
+}
+
+input {
+  color: rgb(255, 0, 0);
+  font-size: 15px;
+}
+
+.cgot {
+  padding: 2px;
+  float: left;
+  background-color: rgba(255, 255, 255, 0.671);
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  border: 4px outset rgb(255, 0, 0);
+  border-width: 5px;
+  border-radius: 25px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cgot2 {
+  padding: 2px;
+  float: right;
+  background-color: rgba(255, 255, 255, 0.671);
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  border: 4px outset rgb(255, 0, 0);
+  border-width: 5px;
+  border-radius: 25px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cgot3 {
+  padding: 2px;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.671);
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  border: 4px outset rgb(255, 0, 0);
+  border-width: 5px;
+  border-radius: 25px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cgot4 {
+  padding: 2px;
+  float: left;
+  background-color: rgba(255, 255, 255, 0.671);
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  border: 4px outset rgb(255, 0, 0);
+  border-width: 5px;
+  border-radius: 25px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cgot5 {
+  padding: 2px;
+  float: right;
+  background-color: rgba(255, 255, 255, 0.671);
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  border: 4px outset rgb(255, 0, 0);
+  border-width: 5px;
+  border-radius: 25px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cgot6 {
+  padding: 2px;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.671);
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  border: 4px outset rgb(255, 0, 0);
+  border-width: 5px;
+  border-radius: 25px;
+  font-family: "Montserrat", sans-serif;
+}
+
+
+#GOTLOGO {
+
+  height: 220px;
+  width: auto;
+
+}
